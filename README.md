@@ -19,3 +19,7 @@ Procedure
 * add chopped butter and eggs, knead
 * bake 15 minutes in a fan assisted oven preheated to 160 degrees Celsius
 
+TODO
+----
+
+* Try making the recipe vegan for my dairy-free friends.
