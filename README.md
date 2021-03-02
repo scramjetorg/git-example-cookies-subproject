@@ -5,12 +5,12 @@ Ingredients
 -----------
 
 * 50 g of shredded coconut
-* 1 cup of sugar
-* 1 pack of rice porridge
-* 1 vanilla sugar
-* 1 teaspoon of baking powder
-* 1 cube of butter
-* 3 eggs
+* 1 cup of sugar (220 g)
+* 1 pack of rice porridge (not flavored!) (160 g)
+* 1 vanilla sugar (15 g)
+* 1 flat teaspoon of baking powder
+* 1 cube of butter (200 g)
+* 3 medium eggs (about 180 g)
 
 Procedure
 ---------
