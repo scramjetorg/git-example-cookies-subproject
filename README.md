@@ -9,14 +9,14 @@ Ingredients
 * 1 pack of rice porridge
 * 1 vanilla sugar
 * 1 teaspoon of baking powder
-* 1 cube of butter
-* 3 eggs
+* 1 cube of margarine
+* 1 banana
 
 Procedure
 ---------
 
 * mix all dry ingredients
-* add chopped butter and eggs, knead
+* add chopped margarine and banana, knead
 * bake 15 minutes in a fan assisted oven preheated to 160 degrees Celsius
 
 TODO
