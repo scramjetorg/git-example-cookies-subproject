@@ -9,3 +9,12 @@ Ciasteczka ryżowo-kokosowe
 * 1 kostka masła (200 g)
 * 3 średnie jajka (ok. 180 g)
 
+
+Przygotowanie
+-------------
+
+* wymieszać wszystkie suche składniki
+* dodać posiekane masło i jajka, zagnieść
+* uformować ciasteczka (spłaszczone kulki o wymiarach ok. 4 x 4 x 2 cm)
+* piec 15 minut w piekarniku nagrzanym do 160 stopni, z termoobiegiem
+
